@@ -1,2 +1,2 @@
 # W10Tools
-I made this for fun have a lot easter eggs and i love making this apps.
+I made this for fun have a lot easter eggs and i love making this apps.To do this, I spend a lot of time during my day, but this is my passion, and I will continue to create projects for you. This program is open source, so there's nothing to complain about. I used a setup program and created it quickly so that people know how to open it without needing to be geniuses. I've already finished another program, but I'm not sure if I will post it because it might inspire you to do malicious things. Have a good day!
